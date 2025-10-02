@@ -1,0 +1,14 @@
+﻿.venv/
+__pycache__/
+.DS_Store
+*.pyc
+*.pth
+*.pt
+*.ckpt
+runs/
+logs/
+outputs/
+data/raw/
+.idea/
+.vscode/
+
