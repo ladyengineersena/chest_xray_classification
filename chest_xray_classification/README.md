@@ -1,4 +1,4 @@
 ﻿# chest_xray_classification
 
-AkciÄŸer RÃ¶ntgeni SÄ±nÄ±flandÄ±rma (Normal / PnÃ¶moni / COVID-19)
+Akciğer Röntgeni Sınıflandırma (Normal / Pnömoni / COVID-19)
 
